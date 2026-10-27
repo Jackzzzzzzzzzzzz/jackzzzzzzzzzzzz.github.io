@@ -3,7 +3,7 @@
 **PhD student in Nutritional Sciences**  
 University of Illinois Urbana-Champaign
 
-[Email](mailto:ruijiez4@illinois.edu) · [LinkedIn](https://www.linkedin.com/in/ruijie-jack-zhang/) · [GitHub](https://github.com/Jackzzzzzzzzzzzz)
+[Email](mailto:ruijiez4@illinois.edu) · [LinkedIn](https://www.linkedin.com/in/ruijie-jack-zhang/) · [GitHub](https://github.com/Jackzzzzzzzzzzzz) · [CV](Jack_Zhang_CV.pdf)
 
 ## About
 
