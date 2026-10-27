@@ -1,5 +1,3 @@
-# Jack (Ruijie) Zhang
-
 **PhD student in Nutritional Sciences**  
 University of Illinois Urbana-Champaign
 
