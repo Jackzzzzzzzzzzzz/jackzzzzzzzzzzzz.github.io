@@ -49,6 +49,7 @@ img { max-width: 100%; height: auto; }
 .research-figure a { display: block; }
 .research-figure img { display: block; width: 100%; }
 .research-figure figcaption { margin-top: 14px; color: var(--muted); font-size: 13.5px; line-height: 1.65; }
+.research-figure figcaption a { display: inline; text-decoration: underline; }
 .expertise-group { margin: 0; padding: 18px 0; border-bottom: 1px solid #edf0f2; }
 .expertise-group:first-of-type { padding-top: 0; }
 .expertise-group.expertise-last { border-bottom: 0; padding-bottom: 0; }
@@ -60,7 +61,18 @@ img { max-width: 100%; height: auto; }
 .publication .authors { margin: 0 0 8px; font-size: 14px; line-height: 1.7; color: var(--muted); }
 .publication .authors strong { color: var(--ink); }
 .publication .venue { margin: 0; font-size: 14px; line-height: 1.65; color: var(--ink); }
-.publication .contribution { display: inline-block; color: var(--accent); font-weight: 650; }
+.publication .publication-role { margin: 0 0 12px; line-height: 1.5; }
+.publication .contribution {
+  display: inline-block;
+  padding: 5px 11px;
+  border: 1px solid var(--accent);
+  border-radius: 5px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 13px;
+  line-height: 1.5;
+  font-weight: 700;
+}
 footer { grid-column: 2; padding-top: 16px; border-top: 1px solid var(--rule); color: var(--muted); font-size: 12px; line-height: 1.6; }
 footer p { margin: 0; }
 footer small { font-size: inherit; }
