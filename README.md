@@ -46,7 +46,14 @@ I combine tissue imaging, single-cell reference mapping, and spatial transcripto
   <p>Multiplex immunofluorescence, confocal and epifluorescence microscopy, and quantitative image analysis using Fiji/ImageJ, QuPath, and Python.</p>
 </div>
 
-## Selected Publications
+## Selected Publications & Manuscripts
+
+<div class="publication">
+  <p class="publication-role"><strong class="contribution">First Author</strong></p>
+  <h3>Epithelial hnRNP I loss disrupts colonic defense programs and spatial organization in mice</h3>
+  <p class="authors"><strong>Ruijie Zhang</strong>, Siyuan Liang, Guanying Bianca Xu, Lingfan Jiang, Tianhan Wang, Abrory A. C. Pramana, Alexis Lindahl, Yuan-Xiang Pan, Hong Chen, Michael Robben.</p>
+  <p class="venue"><strong>In submission</strong>, 2026.</p>
+</div>
 
 <div class="publication">
   <p class="publication-role"><strong class="contribution">Co-first author</strong></p>
