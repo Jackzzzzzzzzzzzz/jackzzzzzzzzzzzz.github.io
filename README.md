@@ -50,7 +50,7 @@ I combine tissue imaging, single-cell reference mapping, and spatial transcripto
 
 <div class="publication">
   <p class="publication-role"><strong class="contribution">First Author</strong></p>
-  <h3>Epithelial PTBP1 I loss disrupts colonic defense programs and spatial organization in mice</h3>
+  <h3>Epithelial PTBP1 loss disrupts colonic defense programs and spatial organization in mice</h3>
   <p class="authors"><strong>Ruijie Zhang</strong>, Siyuan Liang, Guanying Bianca Xu, Lingfan Jiang, Tianhan Wang, Abrory A. C. Pramana, Alexis Lindahl, Wenyan Mei, Yuan-Xiang Pan, Hong Chen, Michael Robben.</p>
   <p class="venue"><strong>In submission</strong>, 2026.</p>
 </div>
